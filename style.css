@@ -1,0 +1,33 @@
+.row {
+  margin-top: 600px;
+}
+.temperature {
+  margin-top: 25px;
+}
+.cloud-icon {
+  position: absolute;
+  right: 400px;
+  color: rgb(211, 211, 240);
+  font-size: 100px;
+}
+.sun-icon {
+  position: absolute;
+  right: 600px;
+  font-size: 100px;
+  color: rgb(241, 205, 137);
+}
+
+.temperature {
+  font-size: 35px;
+  font-weight: bold;
+}
+.temperature {
+  font-size: 25px;
+}
+
+button {
+  position: absolute;
+  left: 600px;
+  border-color: rgb(160, 153, 153);
+  top: 112px;
+}
